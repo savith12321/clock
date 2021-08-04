@@ -1,0 +1,22 @@
+@import url(https://db.onlinewebfonts.com/c/84cb021d5f9af287ffff84b61beef6dc?family=clockicons);
+body {
+    margin: auto;
+    background-color: rgb(24, 26, 27);
+    color: white;
+}
+
+.start {
+    font-family: arial;
+    color: rgb(83, 167, 235);
+}
+
+.count_up {
+    font-size: 1000%;
+    font-family: clockicons;
+    color: rgb(83, 167, 235);
+}
+
+.user_timer {
+    margin-left: 200px;
+    margin-right: 200px;
+}
