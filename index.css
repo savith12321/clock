@@ -1,0 +1,36 @@
+@import url('https://db.onlinewebfonts.com/c/84cb021d5f9af287ffff84b61beef6dc?family=clockicons');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+body {
+    margin: auto;
+    background-color: rgb(24, 26, 27);
+    color: white;
+}
+
+.start {
+    font-family: arial;
+    color: rgb(83, 167, 235);
+    font-family: swap;
+}
+
+.count_up {
+    font-size: 1000%;
+    font-family: clockicons;
+    color: rgb(83, 167, 235);
+}
+
+.user_timer {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.input-group-text{
+    background-color: #242222;
+    color:white;
+    border: none;
+    font-family: swap;
+}
+
+.alert{
+    margin-left: 200px;
+    margin-right: 200px;
+}
